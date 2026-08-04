@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
