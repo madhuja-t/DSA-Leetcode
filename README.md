@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -123,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
