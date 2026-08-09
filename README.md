@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -120,9 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0338-counting-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
