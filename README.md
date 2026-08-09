@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0709-to-lower-case](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
