@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+| [2974-minimum-number-game](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
