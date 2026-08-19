@@ -1,16 +1,30 @@
 class Solution {
     public int minOperations(String[] logs) {
-        Stack<String> st = new Stack<>();
-        for(int i=0;i<logs.length;i++){
-            String s = logs[i];
-            if(s.equals("../")){
-                if(!st.isEmpty())st.pop();
+        int ans = 0;
+        for(int i = 0; i < logs.length; i++)
+        {
+            ans = ans + add(logs[i], ans);
+        }
+        return ans;
+    }
+    public int add(String s, int ans)
+    {
+        if(s.charAt(1) == '.'){
+            if(ans == 0)
+            {
+                return 0;
             }
-            else if(s.equals("./"))continue;
-            else{
-                st.push(s);
+            else
+            {
+                return -1;
             }
-        } 
-        return st.size();
+        }
+        else if(s.charAt(0) == '.'){
+            return 0;
+        }
+        else
+        {
+            return 1;
+        }
     }
 }
