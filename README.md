@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1598-crawler-log-folder) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1598-crawler-log-folder) |
 ## Design
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
