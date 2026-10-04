@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1046-last-stone-weight) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -242,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
