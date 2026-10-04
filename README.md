@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2974-minimum-number-game) |
