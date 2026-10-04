@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Geometry
@@ -256,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
