@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/madhuja-t/DSA-Leetcode/tree/master/1598-crawler-log-folder) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0965-univalued-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Geometry
 |  |
 | ------- |
@@ -268,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/madhuja-t/DSA-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/madhuja-t/DSA-Leetcode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
