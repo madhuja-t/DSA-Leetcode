@@ -16,7 +16,10 @@ class Solution {
             }
             set.add(subset);
         }
-        list.addAll(set);
+      //  list.addAll(set);
+      for(List<Integer> subset :set){
+        list.add(subset);
+      }
         return list;
     }
     public boolean check(int n, int k){
